@@ -1,3 +1,5 @@
+
+// Linked List implementation from scratch
 public class LL {
 	Node head;
 	private int size;
